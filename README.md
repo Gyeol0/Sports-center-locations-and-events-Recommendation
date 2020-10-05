@@ -17,8 +17,9 @@
 ### 질적 분석
 
 > 동 별 주민들의 선호체육종목을 분석하여 추천
+<img src="./img/img.PNG" width="40%">
 
-![프로젝트 목표](./img/img.PNG)(: width="50%" height="50%")
+![프로젝트 목표](./img/img.PNG)<: width="50%" height="50%">
 
 
 
