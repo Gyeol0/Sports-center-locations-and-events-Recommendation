@@ -88,8 +88,8 @@
 
 
 ## 모델 설명
-<img src="./img/location.PNG" width="60%">
-<img src="./img/img1.PNG" width="60%"> <img src="./img/img2.PNG" width="60%">
+<img src="./img/location.PNG" width="20%">
+<img src="./img/img1.PNG" width="20%"> <img src="./img/img2.PNG" width="20%">
 
 
 
@@ -101,16 +101,16 @@
 
 
 ## 모델 실행 결과
-<img src="./img/gu.PNG" width="60%">
+<img src="./img/gu.PNG" width="20%">
 * 강서구 선정
 
-<img src="./img/school.PNG" width="60%">
+<img src="./img/school.PNG" width="20%">
 
-<img src="./img/before.PNG" width="60%">
+<img src="./img/before.PNG" width="20%">
 
-<img src="./img/after1.PNG" width="60%">
+<img src="./img/after1.PNG" width="20%">
 
-<img src="./img/after2.PNG" width="60%">
+<img src="./img/after2.PNG" width="20%">
 
 
 
