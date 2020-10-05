@@ -17,9 +17,8 @@
 ### 질적 분석
 
 > 동 별 주민들의 선호체육종목을 분석하여 추천
-<img src="./img/img.PNG" width="40%">
+<img src="./img/img.PNG" width="60%">
 
-![프로젝트 목표](./img/img.PNG)<: width="50%" height="50%">
 
 
 
@@ -89,8 +88,8 @@
 
 
 ## 모델 설명
-![입지 분석](./img/location.PNG)
-![종목 추천1](./img/img1.PNG) ![종목 추천2](./img/img2.PNG)
+<img src="./img/location.PNG" width="60%">
+<img src="./img/img1.PNG" width="60%"> <img src="./img/img2.PNG" width="60%">
 
 
 
@@ -102,16 +101,17 @@
 
 
 ## 모델 실행 결과
-![구별 공공체육시설 평균 거리](./img/gu.PNG)
+<img src="./img/gu.PNG" width="60%">
 * 강서구 선정
 
-![선정 학교](./img/school.PNG)
+<img src="./img/school.PNG" width="60%">
 
-![모델 적용 전](./img/before.PNG)
+<img src="./img/before.PNG" width="60%">
 
-![모델 적용 후 1개](./img/after1.PNG)
+<img src="./img/after1.PNG" width="60%">
 
-![모델 적용 후 11개](./img/after2.PNG)
+<img src="./img/after2.PNG" width="60%">
+
 
 
 
