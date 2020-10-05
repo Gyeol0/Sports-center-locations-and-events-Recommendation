@@ -107,6 +107,7 @@
 
 ## 모델 실행 결과
 <img src="./img/gu.PNG" width="15%">
+
 * 강서구 선정
 
 <img src="./img/school.PNG" width="20%">
