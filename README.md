@@ -92,17 +92,28 @@
 ![종목 추천1](./img/img1.PNG) ![종목 추천2](./img/img2.PNG)
 
 
+
+- 모델 적확도
+
+|  class1  |   class2  |  class3  |   종목(y) |
+| -------- | --------- | -------- | --------- |
+|   0.827  |   0.887   |   0.728  |   0.5743  |
+
+
 ## 모델 실행 결과
+![구별 공공체육시설 평균 거리](./img/gu.PNG)
+* 강서구 선정
 
-> 곡과 태그의 정확도 지표는 nDCG를 사용한다. (참조, [DCG_Wiki](https://en.wikipedia.org/wiki/Discounted_cumulative_gain))
+![선정 학교](./img/school.PNG)
+
+![모델 적용 전](./img/before.PNG)
+
+![모델 적용 후 1개](./img/after1.PNG)
+
+![모델 적용 후 11개](./img/after2.PNG)
 
 
 
-- 리더보드 제출 결과
-
-| 곡 nDCG  | 태그 nDCG |
-| -------- | --------- |
-| 0.054032 | 0.314600  |
 
 
 
