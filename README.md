@@ -89,7 +89,7 @@
 
 ## 모델 설명
 <img src="./img/location.PNG" width="40%">
-<img src="./img/img1.PNG" width="40%">, <img src="./img/img2.PNG" width="40%">
+<img src="./img/img1.PNG" width="35%"><img src="./img/img2.PNG" width="35%">
 
 
 
