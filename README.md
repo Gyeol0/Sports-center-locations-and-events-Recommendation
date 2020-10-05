@@ -92,6 +92,7 @@
 
 * RandomForest
 <img src="./img/img1.PNG" width="35%">
+
 * Decision Tree
 <img src="./img/img2.PNG" width="35%">
 
