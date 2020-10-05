@@ -89,11 +89,15 @@
 
 ## 모델 설명
 <img src="./img/location.PNG" width="40%">
-<img src="./img/img1.PNG" width="35%"><img src="./img/img2.PNG" width="35%">
+
+* RandomForest
+<img src="./img/img1.PNG" width="35%">
+* Decision Tree
+<img src="./img/img2.PNG" width="35%">
 
 
 
-- 모델 적확도
+- 모델 정확도
 
 |  class1  |   class2  |  class3  |   종목(y) |
 | -------- | --------- | -------- | --------- |
