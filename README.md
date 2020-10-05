@@ -78,10 +78,9 @@
 
 
 ## 모델 설명
-### 입지 분석(./img/img.PNG)
-
-### 종목 추천(./img/img1.PNG)
-(./img/img2.PNG)
+![입지 분석](./img/img.PNG)
+![종목 추천1](./img/img1.PNG)
+![종목 추천2](./img/img2.PNG)
 
 
 ## 모델 실행 결과
