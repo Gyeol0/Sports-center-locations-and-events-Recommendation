@@ -101,10 +101,10 @@
 
 
 ## 모델 실행 결과
-<img src="./img/gu.PNG" width="5%">
+<img src="./img/gu.PNG" width="15%">
 * 강서구 선정
 
-<img src="./img/school.PNG" width="5%">
+<img src="./img/school.PNG" width="15%">
 
 <img src="./img/before.PNG" width="40%">
 
@@ -115,11 +115,3 @@
 
 
 
-
-
-
-## 참고자료
-
-- [데이터 전처리 & EDA](https://arena.kakao.com/forum/topics/191)
-
-- [데이터 탐색](https://brunch.co.kr/@kakao-it/343)
