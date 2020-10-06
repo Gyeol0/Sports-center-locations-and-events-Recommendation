@@ -110,7 +110,7 @@
 
 * 강서구 선정
 
-<img src="./img/school.PNG" width="20%">
+<img src="./img/school.PNG" width="30%">
 
 * 강서구 11개의 초, 중, 고 학교 선정
 
